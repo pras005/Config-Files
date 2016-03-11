@@ -20,7 +20,7 @@ set smartindent
 set smarttab
 
 " Enable line numbers
-set number
+"set number
 
 " Highlight searches
 set hlsearch
@@ -43,3 +43,6 @@ set title
 " Make ENTER enter a new line below and SHIFT+ENTER enter a new line above
 nmap <CR> o<Esc>
 nmap <S-Enter> O<Esc>
+
+" Colorscheme
+colorscheme pablo
