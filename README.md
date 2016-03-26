@@ -5,12 +5,12 @@ NOTES FOR .vimrc:
   
   In the home directory, must have a .vim directory, which has the following directories:
   
-    -- backups
+    - backups
   
-    -- colors
+    - colors
   
-    -- swaps
+    - swaps
   
-    -- undo
+    - undo
   
   In the home directory, create a hard link called .vimrc to .vimrc in ~/.dotfiles/ directory 
