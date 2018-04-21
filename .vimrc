@@ -20,7 +20,7 @@ set smartindent
 set smarttab
 
 " Enable line numbers
-"set number
+set number
 
 " Highlight searches
 set hlsearch
