@@ -21,5 +21,6 @@ mkdir backups colors swaps undo
   In the home directory, create a hard link called .vimrc to .vimrc in ~/.dotfiles/ directory:
   
 ```
+cd ~
 ln ~/Dotfiles/.vimrc ~/.vimrc
 ```
